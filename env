@@ -1,0 +1,5 @@
+
+JWKS_ENCRYPTION_SECRET=Ch4ng3M3!_Pr0dKey#2024
+FLASK_APP=jwks_server.py
+FLASK_ENV=development
+DATABASE_URI=sqlite:///jwks_server_db.sqlite3
